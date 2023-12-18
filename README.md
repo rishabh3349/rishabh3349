@@ -5,7 +5,7 @@
  <br>
 <img align="right" alt="GIF" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="400px" />
 
-🧐 About <br>
+🧐 About: <br>
 -🏄‍ I like to explore a new angle in existing ideas.<br>
 -✨ I love to build Android applications based on unique ideas.<br>
 -😄 I have max rating of 1836 at LeetCode.<br>
