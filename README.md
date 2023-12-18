@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul-19" alt="nakul-19" /> </p>
 #### I'm Rishabh Sharma, Student at 👨‍💻 Delhi Technological University , Delhi Pursuing B.Tech. <br>  I am an Android Developer as well as a Competitive Programmer, obsessed with the idea of continuously improving myself.<br>
  <br>
