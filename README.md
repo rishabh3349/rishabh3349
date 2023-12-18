@@ -12,7 +12,7 @@
 -🌱 I love to learn new things and help others.<br>
 -🎨 Fun fact: Night time and good music boost my skills🌚.<br>
 
-#### 📫  How to reach me: mail me at [sh.nakul19@gmail.com](mailto:sh.nakul19@gmail.com)
+#### 📫  How to reach me: mail me at [rishabh3349@gmail.com](mailto:rishabh3349@gmail.com)
 
 <br>
 
