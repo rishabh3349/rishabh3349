@@ -8,7 +8,7 @@
 🧐 About: <br>
 -🏄‍ I like to explore a new angle in existing ideas.<br>
 -✨ I love to build Android applications based on unique ideas.<br>
--😄 I have max rating of 1836 at LeetCode.<br>
+-😄 I have max rating of 1904 at LeetCode.<br>
 -🌱 I love to learn new things and help others.<br>
 -🎨 Fun fact: Night time and good music boost my skills🌚.<br>
 
