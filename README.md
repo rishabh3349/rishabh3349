@@ -18,7 +18,8 @@
 
 ##  🛠 Tech Stack
 
-<p align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="56" height="56"/>  <img src="https://camo.githubusercontent.com/c4040f9336d148bb54fd63c13b8639f3af4ac7e1b7fc8154593dd236ff0ea8eb/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6b6f746c696e2d69636f6e2e737667" alt="Kotlin" width="52" height="52"/>  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="56" height="56"/>  <img src="https://github.com/rishabh3349/rishabh3349/assets/116977210/a3572784-f46a-403b-8ad5-1c55d1d03279" alt="Kotlin" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="56" height="56"/></p>
 
 <br>
 
